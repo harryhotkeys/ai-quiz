@@ -99,6 +99,3 @@ Handle API errors and rate limits.
 Created by a developer using ChatGPT assistance.
 Feel free to fork, modify, and improve this project!
 
-vbnet
-Copy
-Edit
