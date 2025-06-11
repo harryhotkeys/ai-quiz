@@ -21,7 +21,7 @@ A terminal-based quiz game powered by OpenAI's GPT-3.5-Turbo that generates uniq
 
 Install dependencies:
 
-```bash
+bash
 pip install openai
 🔑 OpenAI API Key Setup
 To use this app, you need an OpenAI API key. Get yours here.
