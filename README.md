@@ -54,6 +54,7 @@ Copy
 Edit
 set OPENAI_API_KEY=your-key-here
 🚀 How to Run
+---
 Clone this repository or download the quiz_game.py script.
 
 Set your API key (see above).
@@ -65,6 +66,7 @@ Copy
 Edit
 python quiz_game.py
 🧪 Example
+---
 vbnet
 Copy
 Edit
