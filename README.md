@@ -28,9 +28,7 @@ To use this app, you need an OpenAI API key. Get yours here.
 
 Replace this line in the script:
 
-python
-Copy
-Edit
+
 openai.api_key = "your-api-key-here"
 Alternatively (recommended): use an environment variable:
 
@@ -42,12 +40,9 @@ Then set it in your terminal:
 
 Linux/macOS:
 
-bash
 
 export OPENAI_API_KEY=your-key-here
 Windows (CMD):
-
-cmd
 
 set OPENAI_API_KEY=your-key-here
 
@@ -59,13 +54,11 @@ Set your API key (see above).
 
 Run the script:
 
-bash
 
 python quiz_game.py
 
 🧪 Example
 ---
-vbnet
 
 Welcome to my AI Generated Quiz!
 Choose category: history
