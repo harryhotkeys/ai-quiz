@@ -35,8 +35,7 @@ openai.api_key = "your-api-key-here"
 Alternatively (recommended): use an environment variable:
 
 python
-Copy
-Edit
+
 import os
 openai.api_key = os.getenv("OPENAI_API_KEY")
 Then set it in your terminal:
@@ -44,14 +43,12 @@ Then set it in your terminal:
 Linux/macOS:
 
 bash
-Copy
-Edit
+
 export OPENAI_API_KEY=your-key-here
 Windows (CMD):
 
 cmd
-Copy
-Edit
+
 set OPENAI_API_KEY=your-key-here
 
 🚀 How to Run
@@ -63,15 +60,13 @@ Set your API key (see above).
 Run the script:
 
 bash
-Copy
-Edit
+
 python quiz_game.py
 
 🧪 Example
 ---
 vbnet
-Copy
-Edit
+
 Welcome to my AI Generated Quiz!
 Choose category: history
 Let's start the game!
